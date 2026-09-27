@@ -17,7 +17,7 @@
   "environment": "*",
   "depends": {
     "fabricloader": ">=0.14.21",
-    "minecraft": ">=${mc_version} <${next_major_mc}"
+    "minecraft": ">=26.4-alpha.1 <${next_major_mc}"
   },
   "breaks": {
     "hydrogen": "<=0.3"
